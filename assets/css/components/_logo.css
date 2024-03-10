@@ -1,0 +1,13 @@
+.logo{
+    margin-left: 3.8rem;
+    padding-top: 1.5rem;
+}
+
+.logo-link{
+    background: url('../../../img/netflix-logo.webp') no-repeat;
+    background-position: center;
+    background-size: 105%;
+    display: inline-block;
+    height: 4rem;
+    width: 7.5rem;
+}

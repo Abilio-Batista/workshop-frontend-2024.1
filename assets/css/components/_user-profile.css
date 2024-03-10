@@ -1,0 +1,26 @@
+.usuario-ativo{
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+}
+
+.usuario-ativo--reverse{
+    flex-direction: row-reverse;
+}
+
+.usuario-ativo--reverse .nome-usuario-ativo{
+    margin-left: 0;
+    margin-right: 1.8rem;
+    
+}
+
+.usuario-ativo-avatar{
+    width: 4.8rem;
+    height: 4.8rem;
+}
+
+.nome-usuario-ativo{
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin-left: 1.8rem;
+}
